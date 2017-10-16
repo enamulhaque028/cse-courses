@@ -52,7 +52,7 @@ git add .
 
 echo [ Done ]  Committing a modified version of a file to the repo.
 echo 
-git commit -m "[ Done - init ]  README.md - Patterns and Briefing"
+git commit -m "[ Done - update ]  CSE345 - Labs | lab 2 | lab 3"
 
 
 ############
