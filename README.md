@@ -1,4 +1,4 @@
-# Patterns
+# Patterns | Notational Shorthand
 Will be updated soon...
 
 # Briefing
