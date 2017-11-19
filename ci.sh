@@ -50,9 +50,18 @@ git add .
 # Step: 04 #
 ############
 
-echo [ Done ]  Committing a modified version of a file to the repo.
-echo 
-git commit -m "[ Done - update ]  (New Slide) CSE350 | Signal Encoding | Mid2"
+echo [ Done ]  Committing...
+echo
+#############################
+## follow up simple commit ##
+#############################
+## Rename pre_filename.md to new_filename.md
+## Create file.ext
+## Update file.ext
+## Delete file.ext
+## Default: Commit skipped|forgotten
+
+git commit -m "Create Semantic Analyzer | CSE375 | Final"
 
 
 ############
