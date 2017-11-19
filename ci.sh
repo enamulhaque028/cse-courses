@@ -61,7 +61,7 @@ echo
 ## Delete file.ext
 ## Default: Commit skipped|forgotten
 
-git commit -m "Create Semantic Analyzer | CSE375 | Final"
+git commit -m "Create day01.PNG"
 
 
 ############
