@@ -61,7 +61,7 @@ echo
 ## Delete file.ext
 ## Default: Commit skipped|forgotten
 
-git commit -m "Updated post-lab.doc | CSE345"
+git commit -m "Updated for Final exam"
 
 
 ############
