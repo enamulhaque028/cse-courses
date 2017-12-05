@@ -1,0 +1,35 @@
+
+
+### Scheme ####
+1.  http://www.khubla.com
+8.  ftp://example.com/pub/file.txt
+9.  ftps://example.com/pub/file.txt
+18. file://localhost/etc/fstab
+
+
+### Path & Port ####
+2.  http://www.khubla.com:8080/index.html
+20. file://hostname/path/to/the%20file.txt
+3.  http://www.khubla.com:8080/a/b/c/index.html
+6.  http://abc.com:80/~smith/home.html
+12. http://svn.example.com:9834/repos
+13. http://svn.example.com/svn/project
+
+
+### Query ###
+5. http://example.com/over/there?name=ferret
+14. http://localhost:8080/demo/my-demo-servlet?value=hello%20world
+15. http://example.com/%E5%BC%95%E3%81%8D%E5%89%B2%E3%82%8A.html
+11. http://localhost:8080/demo/my-demo-servlet?param1=hello&param2=goodbye
+16. vnc://mini?name=MacMini&port=5909&vncPassword=secret123&computerType=0
+17. vnc://mycomputer.mydomain.com?name=MyWindowsComputer&port=5901&vncPassword=secret123&computerType=1
+
+
+### fragment ###
+4. http://www.khubla.com:8080/a/b/c/index.html#rr
+21. https://github.com/dpaukov/combinatoricslib3#3-simple-permutations
+
+
+limitations
+7. ftp://user:password@example.com/pub/file.txt
+10. ftps://user:password@example.com/pub/file.txt
