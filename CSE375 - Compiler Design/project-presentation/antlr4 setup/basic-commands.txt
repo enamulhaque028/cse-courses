@@ -1,0 +1,13 @@
+SET CLASSPATH=.;C:\cse375-project\antlr-4.7-complete.jar;%CLASSPATH%
+
+// java -jar C:\cse375-project\antlr-4.7-complete.jar
+
+env var linking to PATH=C:\Program Files\Java\jdk1.8.0_112\bin
+
+java -jar C:\cse375-project\antlr-4.7-complete.jar Hello.g4
+
+
+
+javac Hello*.java
+
+
