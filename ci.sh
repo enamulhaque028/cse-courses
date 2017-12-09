@@ -61,7 +61,7 @@ echo
 ## Delete file.ext
 ## Default: Commit skipped|forgotten
 
-git commit -m "Added new projects and files"
+git commit -m "Updated Mid2 files"
 
 
 ############
