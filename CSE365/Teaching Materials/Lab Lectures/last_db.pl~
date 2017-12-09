@@ -1,0 +1,54 @@
+what_grade(5):-
+	write('Go to kinder garder').
+
+what_grade(6):-
+	write('Go to some where.').
+
+w_g(Others) :-
+	B is Others - 10,
+	format('grade is ~w ~n',[B]).
+
+what_grade(Other):-
+	A is Other - 5,
+	format('Go to grade ~w ~n', [A]).
+
+grade_print:-
+	write('Enter Marks: '),
+	read(Mark),
+	(
+	    (Mark>100; Mark<0) ->                    %if
+	         (
+		     format('Invalid Input'),
+		     nl,
+		     format('Input Again.')
+
+		 );
+	     (Mark<33, Mark>=0) ->                   %else if
+	          (
+		      format('Failed'),
+		      nl,
+		      format('Try better next.')
+		  );
+	     %(33=<Mark, 100>=Mark) ->		     %else if
+	          (
+		      format('Passed'),
+		      nl,
+		      format('Congratulations.')
+		  )
+	).
+
+
+loop:-
+	read(X),
+	repeat,
+	(
+	    between(1, 11, Increment),
+	    write('Hello '),
+	    write(Increment),
+	    nl
+	),
+	(
+	    Increment == X
+	).
+
+
