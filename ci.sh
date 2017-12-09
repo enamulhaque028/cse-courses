@@ -61,7 +61,7 @@ echo
 ## Delete file.ext
 ## Default: Commit skipped|forgotten
 
-git commit -m "Rename folder"
+git commit -m "Added new files"
 
 
 ############
