@@ -61,7 +61,7 @@ echo
 ## Delete file.ext
 ## Default: Commit skipped|forgotten
 
-git commit -m "Added new files"
+git commit -m "Final update cse375"
 
 
 ############
