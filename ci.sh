@@ -61,7 +61,7 @@ echo
 ## Delete file.ext
 ## Default: Commit skipped|forgotten
 
-git commit -m "Updated cse360"
+git commit -m "Added course materials cse360"
 
 
 ############
