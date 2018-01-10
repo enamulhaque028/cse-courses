@@ -35,7 +35,10 @@ MID-1
 
 
 
+**Lecture 1**
+
 **Lecture 2**
+
 Reading Assignment-1: Read “Cramming More Components onto Integrated Circuits” by Gordon Moore
 
 Answer the following question:
