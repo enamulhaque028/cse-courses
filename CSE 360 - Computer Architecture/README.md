@@ -9,6 +9,9 @@ Contents
 
 MID-1
 -----
+CO1: Computer Fundamentals & Interconnection Structures
+
+CO2: Computer Memory system
 
 MID-2
 -----
