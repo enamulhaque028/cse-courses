@@ -36,9 +36,9 @@ Interconnection structures
   - **Raised:** Several types ICs SRAM(for processor) | DRAM(for memory) | Flash(for storage)
   - **Inter-connection technologies** | Increasing opportunities for integrating multiple technologies
  
- **Application
+ **Application**
  
- **Goals
+ **Goals**
 
 **Lecture 2**
 
