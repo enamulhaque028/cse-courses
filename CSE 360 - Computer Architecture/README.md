@@ -11,15 +11,15 @@ MID-1
 -----
 **CO1: Computer Fundamentals & Interconnection Structures: 11 marks**
  
- **Fundamentals**
-  - Development history of computer hardware and software
-  - Review of computer functions and structures
-  - Performance evaluation of computer system
+Fundamentals
+ - Development history of computer hardware and software
+ - Review of computer functions and structures
+ - Performance evaluation of computer system
  
- **Interconnection structures**
-  - bus interconnection
-  - PCI
-  - future BUS plus
+Interconnection structures
+ - bus interconnection
+ - PCI
+ - future BUS plus
 
 **CO2: Computer Memory system: 9 marks**
  - cache memory principles
