@@ -17,7 +17,7 @@ MID-1
  - Performance evaluation of computer system
 
 Rate of changes
- - **Technology:** High performance, High reliability but low cost **goal**
+ - **Technology:** High performance, High reliability but low cost **GOAL**
    - 1951 to 2005 [vacuum tube 1 -> transistor 35 -> IC 900 -> very large IC|microprocessor|VLSI device  24 lac-> ultra large IC 6 billion relativeperformance/unit]
  - Application
  - Goals
