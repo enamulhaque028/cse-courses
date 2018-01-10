@@ -9,9 +9,9 @@ Contents
 
 MID-1
 -----
-CO1: Computer Fundamentals & Interconnection Structures
+CO1: Computer Fundamentals & Interconnection Structures - **11 marks**
 
-CO2: Computer Memory system
+CO2: Computer Memory system - **9 marks**
 
 MID-2
 -----
