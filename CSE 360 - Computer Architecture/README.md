@@ -18,6 +18,7 @@ MID-1
   - bus interconnection
   - PCI
   - future BUS plus
+
 **CO2: Computer Memory system: 9 marks**
  - cache memory principles
  - elements of cache design
