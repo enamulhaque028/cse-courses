@@ -16,6 +16,9 @@ MID-1
  - Review of computer functions and structures
  - Performance evaluation of computer system
 
+Rate of changes: High performance, High reliability but low cost (goal)
+ - year 1951 [vacuum tube 1 -> transistor 35 -> IC 900 -> very large IC  24 lac-> ultra large IC 6 billion relativeperformance/unit] to 2005
+
 **Interconnection structures**
  - bus interconnection
  - PCI
