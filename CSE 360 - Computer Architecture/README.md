@@ -33,6 +33,22 @@ MID-1
  - elements of cache design
  - Pentium and PowerPC cache organization
 
+
+
+**Lecture 2**
+Reading Assignment-1: Read “Cramming More Components onto Integrated Circuits” by Gordon Moore
+
+Answer the following question:
+ - One of the potential problems which Moore raises (and
+dismisses) is heat. Do you agree with Moore's conclusions?
+Eit ehr just yif or re ute f Moo e s r ' co c us o s nclusions.
+ - A popular misconception of Moore's law is that it states that
+the speed of computers increases exponentially, however, that
+is not what Moore foretells in this p pa er.
+
+Explain what Moore's law actually says based on this paper.
+
+
 MID-2
 -----
 
