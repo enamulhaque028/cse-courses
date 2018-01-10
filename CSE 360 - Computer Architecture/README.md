@@ -29,12 +29,12 @@ Interconnection structures
 
 **Lecture 1**
 
-**Rate of changes**
+ **Rate of changes**
 
- **Technology:** High performance, High reliability but low cost **GOAL**
-  - **Evaluation** 1951 to 2005 [vacuum tube 1 -> transistor 35 -> IC 900 -> very large IC|microprocessor|VLSI device  24 lac-> ultra large IC 6 billion relativeperformance/unit]
-  - **Raised:** Several types ICs SRAM(for processor) | DRAM(for memory) | Flash(for storage)
-  - **Inter-connection technologies** | Increasing opportunities for integrating multiple technologies
+  **Technology:** High performance, High reliability but low cost **GOAL**
+   - **Evaluation** 1951 to 2005 [vacuum tube 1 -> transistor 35 -> IC 900 -> very large IC|microprocessor|VLSI device  24 lac-> ultra large IC 6 billion relativeperformance/unit]
+   - **Raised:** Several types ICs SRAM(for processor) | DRAM(for memory) | Flash(for storage)
+   - **Inter-connection technologies** | Increasing opportunities for integrating multiple technologies
  
  **Application**
  
