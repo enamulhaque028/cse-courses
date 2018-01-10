@@ -61,7 +61,7 @@ echo
 ## Delete file.ext
 ## Default: Commit skipped|forgotten
 
-git commit -m "Created cse360 - computer architecture"
+git commit -m "Updated cse360"
 
 
 ############
