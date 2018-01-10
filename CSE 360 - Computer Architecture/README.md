@@ -57,7 +57,11 @@ Explain what Moore's law actually says based on this paper.
 
 **Lecture 5**
 
-**Lecture 2**
+**Lecture 6**
+
+**Lecture 7**
+
+**Lecture 8**
 
 MID-2
 -----
