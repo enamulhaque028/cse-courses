@@ -9,26 +9,25 @@ Contents
 
 MID-1
 -----
-**CO1:** Computer Fundamentals & Interconnection Structures **11 marks**
-
-**Fundamentals**
- - Development history of computer hardware and software
- - Review of computer functions and structures
- - Performance evaluation of computer system
-
-**Interconnection structures**
- - bus interconnection
- - PCI
- - future BUS plus
-
-**CO2:** Computer Memory system **9 marks**
+**CO1: Computer Fundamentals & Interconnection Structures: 11 marks**
+ **Fundamentals**
+  - Development history of computer hardware and software
+  - Review of computer functions and structures
+  - Performance evaluation of computer system
+ **Interconnection structures**
+  - bus interconnection
+  - PCI
+  - future BUS plus
+**CO2: Computer Memory system: 9 marks**
  - cache memory principles
  - elements of cache design
  - Pentium and PowerPC cache organization
 
 
 **Lecture 1**
+
 **Rate of changes**
+
 **Technology:** High performance, High reliability but low cost **GOAL**
  - 1951 to 2005 [vacuum tube 1 -> transistor 35 -> IC 900 -> very large IC|microprocessor|VLSI device  24 lac-> ultra large IC 6 billion relativeperformance/unit]
  - RAISED: Several types ICs SRAM(for processor) | DRAM(for memory) | Flash(for storage)
