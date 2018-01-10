@@ -51,6 +51,13 @@ is not what Moore foretells in this p pa er.
 
 Explain what Moore's law actually says based on this paper.
 
+**Lecture 3**
+
+**Lecture 4**
+
+**Lecture 5**
+
+**Lecture 2**
 
 MID-2
 -----
