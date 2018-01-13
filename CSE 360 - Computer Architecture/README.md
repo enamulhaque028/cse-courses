@@ -27,7 +27,7 @@ Interconnection structures
  - Pentium and PowerPC cache organization
 
 
-**Lecture 1**
+**[Lecture 1](https://drive.google.com/drive/folders/1S_QKh_UGEAhFLtce8yKEQW5K5RqS-Ryw)**
 
  **Rate of changes**
 
@@ -42,7 +42,7 @@ Interconnection structures
 
 **Lecture 2**
 
-Reading Assignment-1: Read ìCramming More Components onto Integrated Circuitsî by Gordon Moore
+Reading Assignment-1: Read ‚ÄúCramming More Components onto Integrated Circuits‚Äù by Gordon Moore
 
 Answer the following question:
  - One of the potential problems which Moore raises (and
