@@ -61,7 +61,7 @@ echo
 ## Delete file.ext
 ## Default: Commit skipped|forgotten
 
-git commit -m "Push commit - after download repo"
+git commit -m "Upload new files: CSE411, lab2"
 
 
 ############

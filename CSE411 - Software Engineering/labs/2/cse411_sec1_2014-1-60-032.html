@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>CSE411 - Lab 2</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style type="text/css">
+      /*
+      These are the default styles.
+      */
+      @import url(https://fonts.googleapis.com/css?family=Roboto);
+      html, body {
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        font-family: 'Roboto', sans-serif;
+      }
+      .header{
+        width: 100%;
+      }
+      .article {
+        background-color: #ece8e7;
+      }
+
+      .footer {
+        color: #ece8e7;
+        background-color: #434343;
+        min-height: 70px;
+      }
+    </style>
+    <style type="text/css">
+      /*
+      These are the responsive styles. Throwing some breakpoints here!
+      */
+      .container {
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      @media screen and (min-width: 450px) {
+          /*
+          First need to fix art then implementation
+          */
+      }
+      @media screen and (min-width: 550px) {
+        /*
+        TODO: art and implementation
+        */
+      }
+      @media screen and (min-width: 800px) {
+        .container {
+          width: 800px;
+          margin-left: auto;
+          margin-right: auto;
+        }
+        .header {
+          padding: 20px;
+          background-color: #2ab7eb;
+        }
+        .navigation{
+          width: 100%;
+          display: flex;
+          flex-wrap: wrap;
+          padding-top: 10px;
+          padding-left: 20px;
+          padding-bottom: 10px;
+          font-weight: bold;
+          color: #5e5d58;
+          background-color: #cecece;
+          min-height: 10px;
+        }
+        .navlink{
+          width: 25%;
+          text-decoration: none;
+          color: #5e5d58;
+        }
+        .article{
+          padding: 20px;
+          width: 65%;
+        }
+        .subscribe{
+          width: 30%;
+          background-color: #ece8e7;
+        }
+        .subscribe_context {
+          text-align: center;
+          margin-right: 40px;
+          margin-top: 40px;
+          padding: 10px;
+          background-color: #d4d6d5;
+        }
+        .footer{
+          color: #edefee;
+          padding: 20px;
+          width: 100%;
+        }
+        h1, .link {
+          color: #0e526d;
+          font-weight: bold;
+          text-decoration: none;
+        }
+        h2, p, h3, a {
+          color: #3f3a37;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <h2 style="color: #e2dfea;"><img src = "" width="20" height="20"><span style="margin-left: 20px;">And a little tagline, too.</span></h2>
+      </div>
+      <div class="navigation">
+        <a href="#" class="navlink">Home</a>
+        <a href="#" class="navlink">About</a>
+        <a href="#" class="navlink">Portfolio</a>
+        <a href="#" class="navlink">Contact</a>
+      </div>
+      <div class="article">
+        <h1>Lorem ipsum, Dolor sit</h1>
+        <h2>Nullam vulputate fellis id odio interdum nec malesuada mi werio</h2>
+        <p>To develop an app using the Google Play services APIs, you need to set up your project with the Google Play services SDK, which is available from the Google maven repository.</p>
+        <p>To develop an app using the Google Play services APIs, you need to set up your project with the Google Play services SDK, which is available from the Google maven repository.</p>
+
+        <h2>Latest Updates</h2>
+        <h3>Vebsilum id nulla eu smfoiuw</h3>
+        <p>June 1, 2009</p>
+        <p>Don't use the combined play-services target. It brings in dozens of libraries, bloating your application. Instead, specify only the specific Google Play services APIs your app uses. <a href="#" class="link">Read More</a></p>
+
+        <h3>Vebsilum id </h3>
+        <p>June 1, 2009</p>
+        <p>Don't use the combined play-services target. It brings in dozens of libraries, bloating your application. Instead, specify only the specific Google Play services APIs your app uses. <a href="#" class="link">Read More</a></p>
+
+      </div>
+      <div class="subscribe">
+        <div class="subscribe_context">
+          <h2 class="link">Subscribe!</h2>
+          <img src="" width="30" height="30"><a href="">Subscribe via RSS</a><br>
+          <img src="" width="30" height="30"><a href="">Get Email Updates</a><br>
+          <img src="" width="30" height="30"><a href="">Follow us on Twitter</a><br>
+
+          <h2 class="link">Popular Items</h2>
+          <a href="#">Subscribe via RSS</a>
+          <a href="#">Subscribe via RSS</a>
+          <a href="">Subscribe via RSS</a>
+          <a href="">Subscribe via RSS</a>
+
+          <h2 class="link">Contributors</h2>
+          <a href="">Subscribe via RSS</a>
+          <a href="">Subscribe via RSS</a>
+          <a href="">Subscribe via RSS</a>
+          <a href="">Subscribe via RSS</a><br><br>
+
+          <button style="font-size: 20px;background-color: #c0de7b;padding: 10px;">Join our team</button>
+        </div>
+      </div>
+      <div class="footer">
+        <span>Copyright @ 2009 PSDTuts <br>All rights reserved</span>
+      </div>
+    </div>
+  </body>
+</html>

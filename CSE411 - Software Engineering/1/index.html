@@ -1,0 +1,185 @@
+<!-- problem: by default <p> or <h> tag makes margin, where <span> is ok. how to solve this? -->
+
+<!Doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Student registration form</title>
+    <style>
+		h3{
+		  font-family: Calibri; font-size: 22pt; font-style: normal; font-weight: bold; color:SlateBlue;
+		}
+		table {
+			border: 2px solid black;
+			border-collapse: collapse;
+			padding: 10px;
+		}
+		th, td {
+			border: 0px solid black;
+			border-collapse: collapse;
+			padding: 10px;
+		}
+		#content {
+			font-family: Calibri; color:white; font-size: 11pt; font-style: normal;
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			width: 80%;
+			background: #6a5acd;
+			color: #ffffff;
+		}
+	</style>
+  </head>
+  <body>
+	<div><h3 align="center"><u>STUDENT REGISTRATION FORM</u></h3></div>
+	<div id="content">
+	<form action="/action_page.php">
+      <table style="width:100%">
+        <tr>
+          <td>FIRST NAME</td>
+          <td><input name="firstname" type="text" maxlength="30"> (max 30 characters a-z and A-Z)</td>
+        </tr>
+        <tr>
+          <td>LAST NAME</td>
+          <td><input name="lastname" type="text" maxlength="30">(max 30 characters a-z and A-Z)</td>
+        </tr>
+        <tr>
+          <td>DATE OF BIRTH</td>
+          <td>
+            <select name="day">
+              <option value="Day" selected>Day:</option>
+              <option value="1">1</option>
+              <option value="2">2</option>
+            </select>
+              <select name="month">
+              <option value="month" selected>Month:</option>
+              <option value="1">Jan</option>
+              <option value="2">Feb</option>
+            </select>
+
+            <select name="year">
+              <option value="year" selected>Year:</option>
+              <option value="1">2018</option>
+              <option value="2">2017</option>
+            </select>
+           </td>
+        </tr>
+        <tr>
+          <td>EMAIL ID</td>
+          <td><input name="email" type="text"></td>
+        </tr>
+        <tr>
+          <td>MOBILE NUMBER</td>
+          <td><input name="number" type="text" maxlength="10">(10 digit number)</td>
+        </tr>
+        <tr>
+          <td>GENDER</td>
+          <td><input type="radio" name="gender" value="male"> Male
+    <input type="radio" name="gender" value="female"> Female</td>
+        </tr>
+        <tr>
+          <td>ADDRESS</td>
+          <td>
+            <textarea rows="4" cols="50">
+            </textarea>
+          </td>
+        </tr>
+        <tr>
+          <td>CITY </td>
+          <td>
+        <input name="number" type="text" maxlength="30">(max 30 characters a-z and A-Z)</td>
+        </tr>
+        <tr>
+          <td>PIN CODE</td>
+          <td><input name="email" type="text">(6 digit number)</td> 
+        </tr>
+        <tr>
+          <td>STATE</td>
+          <td><input name="number" type="text" maxlength="30">(max 30 characters a-z and A-Z)</td>
+        </tr>
+        <tr>
+          <td>COUNTRY</td>
+          <td><input name="email" type="text" value="India"></td>
+        </tr>
+        <tr>
+          <td>HOBBIES</td>
+          <td>
+            Drawing<input type="checkbox" name="vehicle" value="Bike">
+            Singing<input type="checkbox" name="vehicle" value="Bike">
+            Dancing<input type="checkbox" name="vehicle" value="Bike">
+            Sketching<input type="checkbox" name="vehicle" value="Bike">                    
+            Others<input type="checkbox" name="vehicle" value="Bike">
+            <input name="vehicle">
+          </td>
+        </tr>
+        <tr>
+          <td>QUALIFICATION</td>
+          <td>
+            <table style="width:100%; border: 2px solid black;">
+          <tr>
+            <th>SI.No.</th>
+            <th>SI.No.Examination</th>
+            <th>Board</th> 
+            <th>Percentage</th>
+            <th>Year of Passing</th>
+          </tr>
+          <tr>
+            <td>1</td>
+            <td>Class X</td>
+            <td><input name=""></td>
+            <td><input name=""></td>
+            <td><input name=""></td>
+          </tr>
+            <tr>
+            <td>2</td>
+            <td>Class XII</td>
+            <td><input name=""></td>
+            <td><input name=""></td>
+            <td><input name=""></td>
+          </tr>
+            <tr>
+            <td>3</td>
+            <td>Graduation</td>
+            <td><input name=""></td>
+            <td><input name=""></td>
+            <td><input name=""></td>
+          </tr>
+            <tr>
+            <td>4</td>
+            <td>Masters</td>
+            <td><input name=""></td>
+            <td><input name=""></td>
+            <td><input name=""></td>
+          </tr>
+          </tr>
+            <tr>
+            <td></td>
+            <td></td>
+            <td>(10 char max)</td>
+            <td>(upto 2 decimal)</td>
+            <td></td>
+          </tr>
+        </table>
+        </td>
+        </tr>
+        <tr>
+          <td>COURSES APPLIED FOR</td>
+          <td>      
+            BCA<input type="checkbox" name="vehicle" value="Bike">
+            B.Com<input type="checkbox" name="vehicle" value="Bike">
+            B.Sc<input type="checkbox" name="vehicle" value="Bike">
+            B.A <input type="checkbox" name="vehicle" value="Bike">
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>
+            <button type="submit" form="nameform" value="Submit">Submit</button>
+            <button type="submit" form="nameform" value="Submit">Reset</button>
+          </td>
+        </tr>
+      </table>
+    </form>
+	</div>
+  </body>
+</html>
