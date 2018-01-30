@@ -13,6 +13,7 @@
    - Write storybook, usecases, sequence diagram
    - Sequencial flow chart
    - Grid chart: Possible development schedule
+   - Top-down analysis
 3. Design
    - Design from technical view
    - UX & UI & Architectural design
