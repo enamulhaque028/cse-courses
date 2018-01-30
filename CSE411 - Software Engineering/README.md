@@ -25,6 +25,9 @@
    - Design from technical view
    - UX & UI & Architectural design
    - System design report
+     - Inputs/Outputs
+     - Processing
+     - Backup and storage
 4. Development
    - from sketch
    - use others services
