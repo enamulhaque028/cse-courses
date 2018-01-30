@@ -31,6 +31,7 @@
 4. Development
    - from sketch
    - use others services
+   - acquire hardware
    - Testing
      - Module | Unit test: part by part test
      - Intregration test: All parts at once
