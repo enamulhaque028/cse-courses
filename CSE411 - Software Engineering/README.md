@@ -38,6 +38,7 @@
 5. Implementation
    - Upgrade from old version
    - Install new version & provide training
+   - Compile final documentation
 6. Operation & maintenance: 
    - Daily observation
    - Periodic evaluation & update
