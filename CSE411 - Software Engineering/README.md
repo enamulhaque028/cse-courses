@@ -8,12 +8,19 @@
      - define problem: by observation and interview what info is needed by whom, when, where and why
      - prepare a short report: **feasibility report**, **project plan**
 2. System|requirement analysis
-   - Study depth on previous sys. and determine what the new system do
+   - Expand "Preliminary investigation": Study depth on previous sys. and determine what the new system do
+   - Use tools
+     - Checklist: list of questions
+     - Sequencial flow chart
+     - Grid charts: to show relationships between inputs and outputs
+     - Top-down analysis
+   - Produce documentation
+     - Complete docs about current system problems: FRD|SRS or BRD
+     - Gantt chart: Possible development schedule
+     - New sys. requirements: Subject, scope, objectives, benefits 
    - Listen to customers | users demand
    - Write storybook, usecases, sequence diagram
-   - Sequencial flow chart
-   - Grid chart: Possible development schedule
-   - Top-down analysis
+   
 3. Design
    - Design from technical view
    - UX & UI & Architectural design
