@@ -61,7 +61,7 @@ echo
 ## Delete file.ext
 ## Default: Commit skipped|forgotten
 
-git commit -m "Upload new files: CSE411, lab2"
+git commit -m "Upload files: CSE360 - Computer Architecture"
 
 
 ############
