@@ -61,7 +61,7 @@ echo
 ## Delete file.ext
 ## Default: Commit skipped|forgotten
 
-git commit -m "Released CSE360_2018.Feb23.1.2.0_7/73pages"
+git commit -m "Released CSE360_2018.Feb23.1.3.0_15/89pages"
 
 
 ############
