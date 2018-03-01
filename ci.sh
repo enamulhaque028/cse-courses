@@ -60,9 +60,9 @@ echo
 ## Update file.ext
 ## Delete file.ext
 ## Default: Commit skipped|forgotten
+## CSE360: Change detected, uploading ...
 
-git commit -m "CSE360: Change detected, uploading ..."
-
+git commit -m "Released CSE360_2018.Feb28.1.5.0_17/107pages"
 
 ############
 # Step: 05 #
