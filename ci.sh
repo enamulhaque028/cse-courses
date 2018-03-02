@@ -64,7 +64,7 @@ echo
 ## CSE360: IO MODULE ...Change detected, upload
 ## Released CSE360_2018.Feb28.1.5.0_17/107pages
 
-git commit -m "CSE360: IO MODULE ...Change detected, upload"
+git commit -m "CSE360: MANAGEMENT ISSUE, Move to computer-architecture"
 
 ############
 # Step: 05 #
