@@ -9,7 +9,9 @@
 
 
 
-**Influencial part:** No need to memorise. Cheatsheet given, write solution from your level of thinking
-
+**Influencial parts:** 
+  - No need to memorise. Cheatsheet given, write solution from your level of thinking
+  - **Big problem domain summary:** How to analyze and detect issues(social + professional) in computing?
+  - **Best practices followed from long years:** How to solve problems(issues)?
 
 Necessary time this folder will be updated...
