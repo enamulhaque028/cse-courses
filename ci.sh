@@ -64,7 +64,7 @@ echo
 ## CSE360: IO MODULE ...Change detected, upload
 ## Released CSE360_2018.Feb28.1.5.0_17/107pages
 
-git commit -m "Upload changes"
+git commit -m "CSE411: presentation"
 
 ############
 # Step: 05 #
