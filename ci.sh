@@ -64,7 +64,7 @@ echo
 ## CSE360: IO MODULE ...Change detected, upload
 ## Released CSE360_2018.Feb28.1.5.0_17/107pages
 
-git commit -m "Update README.md"
+git commit -m "CSE498: linked paper v1.4.0"
 
 ############
 # Step: 05 #
