@@ -66,7 +66,7 @@ echo
 ## CSE498: linked paper v1.4.0
 ## CSE498: update presentation
 
-git commit -m "CSE498: update web presentation + fb link"
+git commit -m "CSE498: update web presentation"
 
 ############
 # Step: 05 #
