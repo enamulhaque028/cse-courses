@@ -31,7 +31,7 @@ git config --global user.name "Sakib Rahman"
 ############
 # Step: 02 #
 ############
- 
+
 echo [ Done ]  Initializing a new Git repo for this project.
 echo
 git init
@@ -63,8 +63,9 @@ echo
 ## CSE360: Change detected, uploading ...
 ## CSE360: IO MODULE ...Change detected, upload
 ## Released CSE360_2018.Feb28.1.5.0_17/107pages
+## CSE498: linked paper v1.4.0
 
-git commit -m "CSE498: linked paper v1.4.0"
+git commit -m "CSE498: update presentation"
 
 ############
 # Step: 05 #
