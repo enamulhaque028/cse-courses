@@ -65,8 +65,9 @@ echo
 ## Released CSE360_2018.Feb28.1.5.0_17/107pages
 ## CSE498: linked paper v1.4.0
 ## CSE498: update presentation
+## CSE498: update web presentation
 
-git commit -m "CSE498: update web presentation"
+git commit -m "CSE360: update web presentation"
 
 ############
 # Step: 05 #
