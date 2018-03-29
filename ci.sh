@@ -67,7 +67,7 @@ echo
 ## CSE498: update presentation
 ## CSE498: update web presentation
 
-git commit -m "CSE360: update web presentation"
+git commit -m "CSE498: completion release 1.6.0"
 
 ############
 # Step: 05 #
