@@ -67,7 +67,7 @@ echo
 ## CSE498: update presentation
 ## CSE498: update web presentation
 
-git commit -m "CSE498: add space on web presentation"
+git commit -m "CSE498: fixed link error"
 
 ############
 # Step: 05 #
