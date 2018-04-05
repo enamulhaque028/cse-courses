@@ -66,6 +66,7 @@ echo
 ## CSE498: linked paper v1.4.0
 ## CSE498: update presentation
 ## CSE498: update web presentation
+## CSE498: UPDATE look & feel
 
 git commit -m "CSE498: UPDATE look & feel"
 
