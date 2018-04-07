@@ -68,7 +68,7 @@ echo
 ## CSE498: update web presentation
 ## CSE498: UPDATE look & feel
 
-git commit -m "CSE411: UPDATE look & feel"
+git commit -m "CSE498: UPDATE look & feel"
 
 ############
 # Step: 05 #
